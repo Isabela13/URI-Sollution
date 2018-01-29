@@ -1,5 +1,8 @@
 #include <stdio.h>
- #include <string.h>
+#include <string.h>
+
+//Nome: Sequência Espelho
+
 int main() {
  	int c, b, e,i,imprime,j,tamanho;
 	int count,count2,k;
