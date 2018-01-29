@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//Nome: Primeiro Contato
+
 int valormaior(int aux, int soma_dos_n) {
 	if (aux > soma_dos_n){
 		return aux;

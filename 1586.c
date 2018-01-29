@@ -2,6 +2,9 @@
 #include <stdlib.h>
 #include <string.h>
 
+
+//Nome: Cabo de Guerra
+
 int main(int argc, char const *argv[])
 {
 	int n, i , count,tam,entrou, forcanome,j,forcaAT,forcaA,forcaB,forcaBT,k;

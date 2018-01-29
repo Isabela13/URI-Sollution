@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+//Nome: Canhão de Destruição
 
 int max(int a,int b){
   if(a>b){

@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//nome: Jogando Cartas Fora
+
 typedef struct Fila {
 
 	int capacidade;
